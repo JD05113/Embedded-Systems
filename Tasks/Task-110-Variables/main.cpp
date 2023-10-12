@@ -24,7 +24,7 @@ int main()
     printf("\nTASK-110\n\n");
 
     // Integer
-    int count = 0;
+    int count = 10;
     printf("count = %d\n", count);
 
     // Add one to count
@@ -33,7 +33,7 @@ int main()
 
     // Char
     char character;
-    character = 'A';
+    character = '9';
     printf("The character %c has the ASCII code %d\n", character, character);
 
     // Short
